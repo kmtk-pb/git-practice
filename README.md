@@ -2,4 +2,5 @@
 このリポジトリはGit動画講座用です．
 te
 new-feature 
-mainブランチで変更(メインブランチconflict)
+coflictブランチで変更	(コンフリクト発生)
+
